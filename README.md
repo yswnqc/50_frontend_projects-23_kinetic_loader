@@ -1,4 +1,4 @@
-# 50_frontend_projects-22_drawing_app
+# 50_frontend_projects-23_kinetic_loader
 
 23/50 Frontend practicing projects [Collection](https://github.com/yswnqc/50_frontend_projects-collection).
 
